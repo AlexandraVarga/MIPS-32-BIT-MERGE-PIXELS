@@ -1,10 +1,10 @@
 # MIPS-32-BIT-Merge-Pixels-Image
 
 ---------------------------------------------------------------------------------------------------------------------
-This project consists of designing the 32-bit single cycle mips processor in the Verilog programming language. 
+This project consists of designing the 32-BIT Single Cycle MIPS Processor in Verilog programming language. 
 The processor can execute a variety of instructions with which a complex program can be implemented. 
 I have produce in RISC-V Assembly Language a solution that can combine pixels of two given images, 
-and it being transformed into machine code will run on the presented processor.
+and it being transformed into machine code, will run on the presented processor.
 ---------------------------------------------------------------------------------------------------------------------
 
 Design a simple 32-bit processor connected to a separate instruction and data memory. 
