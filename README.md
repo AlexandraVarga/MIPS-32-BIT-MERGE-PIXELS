@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 This project consists of designing the 32-BIT Single Cycle MIPS Processor in Verilog programming language. 
 The processor can execute a variety of instructions with which a complex program can be implemented. 
-I have produce in RISC-V Assembly Language a solution that can combine pixels of two given images, 
+I have produce in RISC-V Assembly Language a solution that can merge pixels of two given images, 
 and it being transformed into machine code, will run on the presented processor.
 ---------------------------------------------------------------------------------------------------------------------
 
